@@ -1,9 +1,7 @@
 # Ap_project
 The Ap project for computer class
 
--------------------------
- 	    Information
--------------------------
+"Information"
 
 So, in simple terms its a basic music player ( mp3 player )
 it was made with a the following idea "why is there ads playing in between songs"
